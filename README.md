@@ -38,4 +38,8 @@ Built with:
 ---
 
 ## 📁 Project Structure
+├── app.py # Main Gradio app
+└── README.md # Documentation
+
+
 
